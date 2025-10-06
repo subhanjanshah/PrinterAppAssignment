@@ -1,6 +1,6 @@
 public class PrinterApp {
     public static void main(String[] args) throws Exception {
-        String app = "This app is made by : ";     // made the code some what clearer by moving the declarations
+        String app = "This app is made by : ";      // made the code some what clearer by moving the declarations
         int number1 = 5;
         int number2 = 2;
         int addition = number1 + number2;        // added addition, divison and subtration
